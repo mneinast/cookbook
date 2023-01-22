@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cookbook/moc-recipes-aka-cookbook/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/cookbook/moc-recipes-aka-cookbook/","title":"Home","tags":["gardenEntry"]}
 ---
 
 
@@ -11,6 +11,8 @@
 [[Cookbook/migas\|migas]]
 [[allnotes/butternut squash soup\|butternut squash soup]]
 [[spring rolls\|spring rolls]]
+[[allnotes/chana masala\|chana masala]]
+ - [[allnotes/lemon yogurt sauce\|lemon yogurt sauce]]
 
 
 
