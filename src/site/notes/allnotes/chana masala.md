@@ -12,7 +12,7 @@
 * [ ] jalepeno pepper 2
 * [ ] garlic 10 cloves
 * [ ] ginger, about 1inch square piece
-* [ ] garam masala 3 tbsp
+* [ ] garam masala 3 tsp
 * [ ] ground coriander 3 tsp
 * [ ] ground cumin 1.5 tsp
 * [ ] turmeric 1 tsp
