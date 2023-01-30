@@ -7,6 +7,7 @@
 # meals
 [[Cookbook/chicken tacos\|chicken tacos]]
  - [[Cookbook/avocado sauce\|avocado sauce]]
+
 [[allnotes/cornbread chili\|cornbread chili]]
 [[Cookbook/migas\|migas]]
 [[allnotes/butternut squash soup\|butternut squash soup]]
