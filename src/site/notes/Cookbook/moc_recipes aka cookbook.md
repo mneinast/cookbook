@@ -10,6 +10,7 @@
 [[allnotes/cornbread chili\|cornbread chili]]
 [[Cookbook/migas\|migas]]
 [[allnotes/butternut squash soup\|butternut squash soup]]
+[[allnotes/tomato basil soup\|tomato basil soup]]
 [[spring rolls\|spring rolls]]
 [[allnotes/chana masala\|chana masala]]
  - [[allnotes/lemon yogurt sauce\|lemon yogurt sauce]]
