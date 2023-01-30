@@ -5,7 +5,7 @@
 
 based on
  - cookie and kate cookbook page 93
- - https://cookieandkate.com/classic-tomato-soup-recipe/
+ - [https://cookieandkate.com/classic-tomato-soup-recipe/](https://cookieandkate.com/classic-tomato-soup-recipe/)
 
 uses white beans to add body instead of cream.
 
