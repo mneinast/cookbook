@@ -12,6 +12,7 @@
 [[Cookbook/migas\|migas]]
 [[allnotes/butternut squash soup\|butternut squash soup]]
 [[allnotes/tomato basil soup\|tomato basil soup]]
+[[allnotes/broccoli cheese soup\|broccoli cheese soup]]
 [[spring rolls\|spring rolls]]
 [[allnotes/chana masala\|chana masala]]
  - [[allnotes/lemon yogurt sauce\|lemon yogurt sauce]]
@@ -37,7 +38,7 @@
 
 # baked
 
-[[white bread with poolish\|white bread with poolish]]
+[[allnotes/white bread with poolish\|white bread with poolish]]
 
 
 
