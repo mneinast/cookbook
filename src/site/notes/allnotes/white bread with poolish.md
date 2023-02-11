@@ -72,3 +72,19 @@ Remove the dutch oven and its lid.  Carefully place the proofed loaf inside, kee
 Remove the dutch oven, and tilt out the baked bread.  Cool on a rack at least 20 minutes before serving.
 
 
+# comments
+made this 230211
+ - process
+	 -  proofed one half in proofing basket, second half in the small red bowl with cheesecloth (with flower dusted on cheesecloth)
+		 - covered each with kitchen towels
+	 - preheateed oven with window open and vent on high
+	 - setting oven to 475, it reached ~440F in about 30 minutes time.  I increased setting to 485F and temp rose to 450F before baking started
+	 - set second proofed dough in fridge about 20 minutes prior to baking first dough.
+	 - baked 35 min with lid on
+	 - baked 20 min with lid off
+	 - stored second proof dough in plastic wrap in fridge
+ - results
+	 - good, very close to result pictured in book.  thin crispy crust with chewy center.
+	 - loaf burned too much on the bottom
+ - next time
+	 - place dutch oven higher in oven - i had placed rack so that oven would sit in the middle, but the bread burned on the bottom.
