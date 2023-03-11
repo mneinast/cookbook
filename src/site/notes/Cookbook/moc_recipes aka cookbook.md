@@ -17,6 +17,10 @@
 [[allnotes/chana masala\|chana masala]]
  - [[allnotes/lemon yogurt sauce\|lemon yogurt sauce]]
 
+[[allnotes/greek chicken gyros\|greek chicken gyros]]
+ - [[allnotes/tzatziki sauce\|tzatziki sauce]]
+ - [[allnotes/pickled red onions\|pickled red onions]]
+
 
 
 # drinks
