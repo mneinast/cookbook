@@ -21,6 +21,9 @@
  - [[allnotes/tzatziki sauce\|tzatziki sauce]]
  - [[allnotes/pickled red onions\|pickled red onions]]
 
+[[allnotes/green lemon pasta with peas\|green lemon pasta with peas]]
+
+
 
 
 # drinks
@@ -28,6 +31,7 @@
 [[Cookbook/shirley temple\|shirley temple]]
 [[allnotes/almond shirley\|almond shirley]]
 [[allnotes/maple new york sour\|maple new york sour]]
+[[allnotes/Summer Dill Vodka Sour\|Summer Dill Vodka Sour]]
 
 ## drink components
 [[allnotes/ginger syrup\|ginger syrup]]
