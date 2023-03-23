@@ -3,6 +3,7 @@
 ---
 
 
+invented to pair with [[allnotes/greek chicken gyros\|greek chicken gyros]]
 
 Ingredients
 - Vodka 2 oz (ie bison grass vodka)
