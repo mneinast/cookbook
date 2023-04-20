@@ -6,7 +6,7 @@
 
 based ingredients on https://www.mygreekdish.com/recipe/homemade-greek-chicken-gyro-recipe/print/252299/ but I modified some items and methods.
 
-consider pairing with [[allnotes/Summer Dill Vodka Sour\|Summer Dill Vodka Sour]]
+consider pairing with [[allnotes/BT2 cocktail\|BT2 cocktail]]
 
 # Ingredients
 
