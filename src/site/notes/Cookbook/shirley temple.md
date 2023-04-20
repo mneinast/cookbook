@@ -6,7 +6,7 @@
 # Ingredients
 #ingredients 
 * [ ] 1 oz [[allnotes/ginger syrup\|ginger syrup]]
-* [ ] 1/2 oz [[grenadine\|grenadine]]
+* [ ] 1/2 oz [[allnotes/grenadine\|grenadine]]
 * [ ] 1/2 oz lime juice
 * [ ] 1/4 oz orgaet
 * [ ] soda water
