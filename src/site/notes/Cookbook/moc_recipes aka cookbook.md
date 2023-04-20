@@ -31,11 +31,12 @@
 [[Cookbook/shirley temple\|shirley temple]]
 [[allnotes/almond shirley\|almond shirley]]
 [[allnotes/maple new york sour\|maple new york sour]]
-[[allnotes/Summer Dill Vodka Sour\|Summer Dill Vodka Sour]]
+[[allnotes/BT2 cocktail\|BT2 cocktail]]
+[[allnotes/painkiller cocktail\|painkiller cocktail]]
 
 ## drink components
 [[allnotes/ginger syrup\|ginger syrup]]
-[[grenadine\|grenadine]]
+[[allnotes/grenadine\|grenadine]]
 [[allnotes/fat-washed bourbon\|fat-washed bourbon]]
 
 
