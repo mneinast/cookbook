@@ -7,7 +7,7 @@
 # Ingredients
 #ingredients 
 * [ ] 1 oz orgaet
-* [ ] 1/2 oz [[grenadine\|grenadine]]
+* [ ] 1/2 oz [[allnotes/grenadine\|grenadine]]
 * [ ] 1/2 oz lime juice
 * [ ] 3 oz coke
 * [ ] 2 oz soda water
