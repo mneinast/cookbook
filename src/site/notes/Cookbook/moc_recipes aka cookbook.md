@@ -22,6 +22,9 @@
  - [[allnotes/pickled red onions\|pickled red onions]]
 
 [[allnotes/green lemon pasta with peas\|green lemon pasta with peas]]
+[[allnotes/mediterranean pasta salad\|mediterranean pasta salad]]
+
+
 
 
 
