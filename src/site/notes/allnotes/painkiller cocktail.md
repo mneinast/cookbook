@@ -24,6 +24,7 @@ from greg's how to drink video https://www.youtube.com/watch?v=di1O9mppUcE
 
 # similar to
  - mai tai (rum, orgeat, orange liqueur)
+ - [[allnotes/pineapple nuts\|pineapple nuts]]
 
 
 
