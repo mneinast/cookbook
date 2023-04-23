@@ -4,7 +4,7 @@
 
 
 
-based on the [[allnotes/painkiller cocktail\|painkiller cocktail]] but modified bc i didn't have oranges
+based on the [[allnotes/painkiller cocktail\|painkiller cocktail]] but modified bc i didn't have oranges and didn't want to open a can of coconut cream
 
 
 # ingredients
