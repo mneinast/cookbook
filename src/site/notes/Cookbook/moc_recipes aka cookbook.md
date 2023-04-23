@@ -36,6 +36,8 @@
 [[allnotes/maple new york sour\|maple new york sour]]
 [[allnotes/BT2 cocktail\|BT2 cocktail]]
 [[allnotes/painkiller cocktail\|painkiller cocktail]]
+[[allnotes/pineapple nuts\|pineapple nuts]]
+
 
 ## drink components
 [[allnotes/ginger syrup\|ginger syrup]]
