@@ -11,6 +11,7 @@ from https://www.allrecipes.com/recipe/32385/best-lemonade-ever/
 	* roughly 0.5 cups - 1 cup?
 * [ ] 1.5 cups lemon juice (from about 9 lemons)
 * [ ] 7 cups ice-cold water
+* [ ] optional:  spike with a few drops of rose water, lavender syrup, or elderflower syrup
 
 # Directions
 
