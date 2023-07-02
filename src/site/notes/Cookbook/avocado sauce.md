@@ -7,6 +7,7 @@
 # Ingredients
 #ingredients 
 * [ ]   2 ripe avocados
+* [ ] Sour cream
 * [ ]   The juice of 2-4 small limes adjust to taste
 * [ ]   1 medium sized bunch of cilantro chopped
 * [ ]   2-3 jalapeños or Serrano peppers seeded and deveined (use green bell pepper for a non-spicy version)
