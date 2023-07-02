@@ -27,12 +27,13 @@
 # Directions
 
 cook the rice
- - boil large pot of water
- - rinse rise in a fine mesh colander
- - pour washed rice into boiling water, boil 30 minutes
- - turn off heat and drain the rice
- - return the rice to pot and cover, let steam 10 minutes
- - remove lid, fluff rice and season with salt
+ - note: these instructions only apply to brown rice.  The following steps applied to white rice will overcook it:
+	 - boil large pot of water
+	 - rinse rise in a fine mesh colander
+	 - pour washed rice into boiling water, boil 30 minutes
+	 - turn off heat and drain the rice
+	 - return the rice to pot and cover, let steam 10 minutes
+	 - remove lid, fluff rice and season with salt
 
 cook the chana masala
  - in dutch oven, warm oil over medium-low heat.
