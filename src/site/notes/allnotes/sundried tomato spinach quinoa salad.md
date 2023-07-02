@@ -34,6 +34,16 @@ prepare ingredients for salad
  - roughly chop arugula
  - drain and rinse chickpeas
 
+cook quinoa
+ - combine rinsed quinoa and 2 cups water.  Bring to boil over medium-high heat, then reduce heat to simmer for about 15 minutes.  The quinoa is done when it has absorbed the water.
+ - Remove quinoa from heat and rest 5 minutes, then fluff.
+
+toast almond slices
+ - heat a bit of olive oil in a skillet over medium heat.
+ - Add almonds and dash of salt.
+ - Stir frequently, cook until golden and fragrant.
+ - Cool in a bowl.
+
 combine salad ingredients.
 
 prepare lemon dressing by combining ingredients listed.
