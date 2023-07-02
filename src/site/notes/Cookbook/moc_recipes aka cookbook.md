@@ -24,20 +24,27 @@
 [[allnotes/green lemon pasta with peas\|green lemon pasta with peas]]
 [[allnotes/mediterranean pasta salad\|mediterranean pasta salad]]
 
+[[allnotes/sundried tomato spinach quinoa salad\|sundried tomato spinach quinoa salad]]
+
 
 
 
 
 
 # drinks
+## with alcohol
 [[Cookbook/hot toddy\|hot toddy]]
-[[Cookbook/shirley temple\|shirley temple]]
-[[allnotes/almond shirley\|almond shirley]]
 [[allnotes/maple new york sour\|maple new york sour]]
 [[allnotes/BT2 cocktail\|BT2 cocktail]]
 [[allnotes/painkiller cocktail\|painkiller cocktail]]
 [[allnotes/pineapple nuts\|pineapple nuts]]
+[[allnotes/backyard iced tea\|backyard iced tea]]
+[[allnotes/pimm's cup\|pimm's cup]]
 
+## no alcohol
+[[allnotes/lemonade\|lemonade]]
+[[Cookbook/shirley temple\|shirley temple]]
+[[allnotes/almond shirley\|almond shirley]]
 
 ## drink components
 [[allnotes/ginger syrup\|ginger syrup]]
