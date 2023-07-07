@@ -26,6 +26,9 @@
 
 [[allnotes/sundried tomato spinach quinoa salad\|sundried tomato spinach quinoa salad]]
 
+[[allnotes/slow cooker moroccan chicken\|slow cooker moroccan chicken]]
+
+
 
 
 
