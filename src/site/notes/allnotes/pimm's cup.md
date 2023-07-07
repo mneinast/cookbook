@@ -7,10 +7,12 @@ from https://www.liquor.com/recipes/pimms-cup/
 
 # Ingredients
 #ingredients 
-* [ ] 2 oz spiced rum
-* [ ] 2 oz lemonade
-* [ ] 1 oz unsweetened iced tea
-* [ ] garnish: lemon wedge
+* [ ] 2 oz Pimm’s No. 1
+* [ ] 1/2 oz lemon juice
+* [ ] Ginger ale to top (about 3 oz)
+* [ ] Cucumber slice for garnish
+* [ ] Mint sprig for garnish
+* [ ] 
 
 # Directions
 
