@@ -47,6 +47,7 @@
 [[allnotes/pineapple nuts\|pineapple nuts]]
 [[allnotes/backyard iced tea\|backyard iced tea]]
 [[allnotes/pimm's cup\|pimm's cup]]
+[[allnotes/amaretto sour\|amaretto sour]]
 
 ## no alcohol
 [[allnotes/lemonade\|lemonade]]
