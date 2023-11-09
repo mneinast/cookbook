@@ -53,11 +53,14 @@
 [[allnotes/lemonade\|lemonade]]
 [[Cookbook/shirley temple\|shirley temple]]
 [[allnotes/almond shirley\|almond shirley]]
+[[allnotes/grapefruit-chocolate soda\|grapefruit-chocolate soda]]
 
 ## drink components
 [[allnotes/ginger syrup\|ginger syrup]]
 [[allnotes/grenadine\|grenadine]]
 [[allnotes/fat-washed bourbon\|fat-washed bourbon]]
+[[allnotes/oleo-saccharum\|oleo-saccharum]]
+
 
 
 
