@@ -3,7 +3,7 @@
 ---
 
 from Zac Overman's paloma described in How to Drink episode "You won't drink these anymore"
-https://www.youtube.com/watch?v=X-36v2b0Pn8&t=27s
+[youtube link](https://www.youtube.com/watch?v=X-36v2b0Pn8&t=27s)
 
 
 # Ingredients
