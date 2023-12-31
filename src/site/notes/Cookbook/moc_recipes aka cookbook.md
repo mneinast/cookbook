@@ -49,6 +49,7 @@
 [[allnotes/pimm's cup\|pimm's cup]]
 [[allnotes/amaretto sour\|amaretto sour]]
 [[allnotes/paloma\|paloma]]
+[[allnotes/philadelphia fish house punch\|philadelphia fish house punch]]
 
 
 ## no alcohol
