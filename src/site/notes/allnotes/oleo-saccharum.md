@@ -34,3 +34,5 @@ the next day, finish extract:
 
 # comments
 
+Alternatively, it seems like you can just combine the full amount of sugar with peels, then skip the boiling / dilution mentioned on the next day. (The Bar Book page 108).
+
