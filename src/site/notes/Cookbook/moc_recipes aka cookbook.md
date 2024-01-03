@@ -3,6 +3,10 @@
 ---
 
 
+# RECIPES FOR MEGAN'S FRIENDS
+
+[[allnotes/the best most secret recipe\|the best most secret recipe]]
+
 
 # meals
 [[Cookbook/chicken tacos\|chicken tacos]]
