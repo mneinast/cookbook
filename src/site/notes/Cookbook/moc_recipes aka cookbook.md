@@ -3,12 +3,13 @@
 ---
 
 
-# meals
+# MEALS
 
 ## when it's hot
 [[allnotes/greek chicken gyros\|greek chicken gyros]]
  - [[allnotes/tzatziki sauce\|tzatziki sauce]]
  - [[allnotes/pickled red onions\|pickled red onions]]
+
 [[allnotes/green lemon pasta with peas\|green lemon pasta with peas]]
 [[allnotes/mediterranean pasta salad\|mediterranean pasta salad]]
 [[allnotes/sundried tomato spinach quinoa salad\|sundried tomato spinach quinoa salad]]
@@ -18,6 +19,7 @@
 ## when it's cold
 [[allnotes/chana masala\|chana masala]]
  - [[allnotes/lemon yogurt sauce\|lemon yogurt sauce]]
+
 [[allnotes/cornbread chili\|cornbread chili]]
 [[allnotes/butternut squash soup\|butternut squash soup]]
 [[allnotes/broccoli cheese soup\|broccoli cheese soup]]
@@ -27,6 +29,7 @@
 ## whenever
 [[Cookbook/chicken tacos\|chicken tacos]]
  - [[Cookbook/avocado sauce\|avocado sauce]]
+
 [[Cookbook/migas\|migas]]
 [[allnotes/slow cooker carnitas tacos\|slow cooker carnitas tacos]]
 [[allnotes/broccoli chicken alfredo\|broccoli chicken alfredo]]
@@ -37,7 +40,7 @@
 
 
 
-# drinks
+# DRINKS
 ## with alcohol
 [[Cookbook/hot toddy\|hot toddy]]
 [[allnotes/maple new york sour\|maple new york sour]]
@@ -75,8 +78,9 @@
 [[allnotes/Classic Tex-Mex Queso\|Classic Tex-Mex Queso]]
 [[allnotes/Extra-Tangy Sourdough Bread\|Extra-Tangy Sourdough Bread]]
  - [[allnotes/Extra-Tangy Sourdough Bread - Quick Reference\|Extra-Tangy Sourdough Bread - Quick Reference]]
-  [[allnotes/King Arthur's Detroit-Style Pizza _ King Arthur Flour\|King Arthur's Detroit-Style Pizza _ King Arthur Flour]]
-  [[allnotes/Sourdough Pizza Crust _ King Arthur Flour\|Sourdough Pizza Crust _ King Arthur Flour]]
+
+[[allnotes/King Arthur's Detroit-Style Pizza _ King Arthur Flour\|King Arthur's Detroit-Style Pizza _ King Arthur Flour]]
+[[allnotes/Sourdough Pizza Crust _ King Arthur Flour\|Sourdough Pizza Crust _ King Arthur Flour]]
 
 
  
