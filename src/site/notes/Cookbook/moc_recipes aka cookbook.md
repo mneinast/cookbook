@@ -5,7 +5,7 @@
 
 # MEALS
 
-## when it's hot
+### when it's hot
 [[allnotes/greek chicken gyros\|greek chicken gyros]]
  - [[allnotes/tzatziki sauce\|tzatziki sauce]]
  - [[allnotes/pickled red onions\|pickled red onions]]
@@ -16,7 +16,7 @@
 [[allnotes/spring rolls\|spring rolls]]
 
 
-## when it's cold
+### when it's cold
 [[allnotes/chana masala\|chana masala]]
  - [[allnotes/lemon yogurt sauce\|lemon yogurt sauce]]
 
@@ -26,7 +26,7 @@
 [[allnotes/slow cooker moroccan chicken\|slow cooker moroccan chicken]]
 
 
-## whenever
+### whenever
 [[Cookbook/chicken tacos\|chicken tacos]]
  - [[Cookbook/avocado sauce\|avocado sauce]]
 
@@ -34,7 +34,7 @@
 [[allnotes/slow cooker carnitas tacos\|slow cooker carnitas tacos]]
 [[allnotes/broccoli chicken alfredo\|broccoli chicken alfredo]]
 
-## never again
+### never again
 [[allnotes/tomato basil soup\|tomato basil soup]]
 
 
@@ -42,7 +42,7 @@
 
 
 # DRINKS
-## with alcohol
+### with alcohol
 [[allnotes/margarita\|margarita]]
 [[Cookbook/hot toddy\|hot toddy]]
 [[allnotes/maple new york sour\|maple new york sour]]
@@ -55,13 +55,13 @@
 [[allnotes/paloma\|paloma]]
 [[allnotes/philadelphia fish house punch\|philadelphia fish house punch]]
 
-## no alcohol
+### no alcohol
 [[allnotes/lemonade\|lemonade]]
 [[Cookbook/shirley temple\|shirley temple]]
 [[allnotes/almond shirley\|almond shirley]]
 [[allnotes/grapefruit-chocolate soda\|grapefruit-chocolate soda]]
 
-## drink components
+### drink components
 [[allnotes/ginger syrup\|ginger syrup]]
 [[allnotes/grenadine\|grenadine]]
 [[allnotes/fat-washed bourbon\|fat-washed bourbon]]
