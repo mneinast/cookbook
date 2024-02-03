@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/cookbook/moc-recipes-aka-cookbook/","title":"Home","tags":["gardenEntry"]}
 ---
 
-```html
+
 `<h1 style="text-align: center;">H1 that is center aligned</h1>`
-```
+
+
+
 # MEALS
 
 ## when it's hot
