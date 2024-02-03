@@ -43,6 +43,7 @@
 
 # DRINKS
 ## with alcohol
+[[allnotes/margarita\|margarita]]
 [[Cookbook/hot toddy\|hot toddy]]
 [[allnotes/maple new york sour\|maple new york sour]]
 [[allnotes/BT2 cocktail\|BT2 cocktail]]
