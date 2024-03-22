@@ -55,6 +55,7 @@
 [[allnotes/paloma\|paloma]]
 [[allnotes/philadelphia fish house punch\|philadelphia fish house punch]]
 
+
 ### no alcohol
 [[allnotes/lemonade\|lemonade]]
 [[Cookbook/shirley temple\|shirley temple]]
@@ -64,6 +65,7 @@
 ### drink components
 [[allnotes/ginger syrup\|ginger syrup]]
 [[allnotes/grenadine\|grenadine]]
+[[allnotes/orgeat\|orgeat]]
 [[allnotes/fat-washed bourbon\|fat-washed bourbon]]
 [[allnotes/oleo-saccharum\|oleo-saccharum]]
 
