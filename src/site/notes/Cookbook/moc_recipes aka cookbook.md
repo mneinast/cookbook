@@ -14,7 +14,7 @@
 [[allnotes/mediterranean pasta salad\|mediterranean pasta salad]]
 [[allnotes/sundried tomato spinach quinoa salad\|sundried tomato spinach quinoa salad]]
 [[allnotes/spring rolls\|spring rolls]]
-
+[[allnotes/pita sandwiches with broccoli chickpea and avocado\|pita sandwiches with broccoli chickpea and avocado]]
 
 ### when it's cold
 [[allnotes/chana masala\|chana masala]]
