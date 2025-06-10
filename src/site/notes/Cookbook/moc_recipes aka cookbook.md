@@ -80,7 +80,7 @@
 
 
 # baked
-
+[[cinnamon rolls\|cinnamon rolls]]
 [[allnotes/white bread with poolish\|white bread with poolish]]
 [[allnotes/Classic Tex-Mex Queso\|Classic Tex-Mex Queso]]
 [[allnotes/Extra-Tangy Sourdough Bread\|Extra-Tangy Sourdough Bread]]
