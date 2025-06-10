@@ -33,6 +33,8 @@
 [[Cookbook/migas\|migas]]
 [[allnotes/slow cooker carnitas tacos\|slow cooker carnitas tacos]]
 [[allnotes/broccoli chicken alfredo\|broccoli chicken alfredo]]
+[[allnotes/pasta with yogurt and parsley breadcrumbs\|pasta with yogurt and parsley breadcrumbs]]
+[[cinnamon rolls\|cinnamon rolls]]
 
 ### never again
 [[allnotes/tomato basil soup\|tomato basil soup]]
