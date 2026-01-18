@@ -29,7 +29,7 @@
 ### whenever
 [[Cookbook/chicken tacos\|chicken tacos]]
  - [[Cookbook/avocado sauce\|avocado sauce]]
-
+ - [[cilantro lime rice\|cilantro lime rice]]
 [[Cookbook/migas\|migas]]
 [[allnotes/slow cooker carnitas tacos\|slow cooker carnitas tacos]]
 [[allnotes/broccoli chicken alfredo\|broccoli chicken alfredo]]
